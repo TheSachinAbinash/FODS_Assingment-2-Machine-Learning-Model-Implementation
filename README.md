@@ -40,4 +40,4 @@ The Davies-Bouldin Index is a well-known metric to perform the same – it enabl
 
 ## Conclusion
 
-Having made use of K-Means Clustering, we have successfully classified the features into appropriate *Power Ranks* based on some intrinsic characteristics present in the dataset as identified by the model. We have also evaluated the proficiency of the model and have found it to be passable. Using the Agglomerative Clustering model to cross-validate our result, we find that our model is properly tuned and working. 
+Having made use of K-Means Clustering, we have successfully classified the features into appropriate *Power Ranks* based on some intrinsic characteristics present in the dataset as identified by the model. We have also evaluated the proficiency of the model and have found it to be passable. Using the Agglomerative Clustering model to cross-validate our result, and comparing the Davies_Bouldin Index values of both the models, we find that the values are similar to each other meaning that the models have both been properly tuned and working.  
